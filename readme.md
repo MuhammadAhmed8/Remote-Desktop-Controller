@@ -11,10 +11,5 @@ To dos:
 Works on WLAN/LAN. Needs port forwarding to work on internet.
 
 
-Group Members:
-Muhammad Ahmed K180256
-Yusha Arif  K181289
-Musawwir    K180185
-
  
  
